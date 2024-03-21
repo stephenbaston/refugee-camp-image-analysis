@@ -8,4 +8,6 @@ Experimental sandbox to explore building machine learning models to detect objec
 
 ## Run Scripts
 
-```poetry run python ./scripts/detect-shelters.py```
+Script to draw boxes around objects for training data:
+
+```poetry run python ./scripts/draw_boxes.py```
